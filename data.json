@@ -1,0 +1,44 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "author": "Douglas Adams"
+        },
+        {
+            "id": 2,
+            "title": "The Restaurant at the End of the Universe",
+            "author": "Douglas Adams"
+        },
+        {
+            "id": 3,
+            "title": "Life, the Universe and Everything",
+            "author": "Douglas Adams"
+        },
+        {
+            "id": 4,
+            "title": "So Long, and Thanks for All the Fish",
+            "author": "Douglas Adams"
+        },
+        {
+            "id": 8,
+            "title": "Mostly Harmless",
+            "author": "Douglas Adams"
+        },
+        {
+            "id": 5,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald"
+        },
+        {
+            "id": 6,
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger"
+        },
+        {
+            "id": 7,
+            "title": "The Grapes of Wrath",
+            "author": "John Steinbeck"
+        }
+    ]
+}
